@@ -12,7 +12,8 @@ export default () => (
           Radhoštská xx, Praha x...
         </div>
         <div className='phone'>
-          +420 777 745 745
+          <a href="tel:+420777555444">+420 777 555 444</a>
+          <div><a href="mailto:katka.trnkova@seznam.cz">katka.trnkova@seznam.cz</a></div>
         </div>
       </div>
     </div>
