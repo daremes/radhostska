@@ -16,7 +16,7 @@ export default () => (
         </div>
       </div>
     </div>
-    <div style={{ padding: '3rem 3rem 0 3rem' }}>
+    <div className='padding'>
       <h2>Popis</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse potenti nullam ac tortor. 
       Magna eget est lorem ipsum dolor. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Bibendum at varius vel pharetra vel turpis. Eget nullam non nisi 
@@ -27,11 +27,11 @@ export default () => (
       ultricies mi quis. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Nec ullamcorper sit amet risus nullam eget felis eget nunc.
       </p>
     </div>
-    <div style={{ padding: '3rem' }}>
+    <div className='padding'>
       <h2>Galerie</h2>
       <ImageGallery />
     </div>
-    <div style={{ padding: '3rem' }}>
+    <div className='padding'>
       <h2>Mapa</h2>
     </div>
   </div>

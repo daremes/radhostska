@@ -58,7 +58,7 @@ nav a {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 40%;
+  height: 320px;
   margin: auto;
 }
 
@@ -89,40 +89,50 @@ nav a {
   border-radius: 12px;
 }
 
-@media screen and (max-width: 600px) {
+.padding {
+  padding: 3rem 3rem 0 3rem;
+}
+
+@media screen and (max-width: 900px) {
 .cover .heading {
   position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  height: 40%;
-  margin: auto;
+  margin-right: 12px;
+  margin-left: 12px;
 }
 
 .title {
-  font-size: 4rem;
+  font-size: 1.9rem;
   white-space: nowrap;
   font-weight: bold;
 }
 
 .adress {
-  font-size: 1rem;
+  font-size: 0.8rem;
   white-space: nowrap;
   font-weight: bold;
 }
 
 .phone {
+  margin-left: 0;
+  margin-right: 0;
   margin-top: 4rem;
   font-weight: bold;
   color: #000;
-  padding: 48px;
+  padding: 24px 0px;
   background: rgba(255, 255, 255, 0.7);
-  font-size: 2rem;
+  font-size: 1rem;
   -webkit-box-shadow: -2px 14px 19px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: -2px 14px 19px 0px rgba(0,0,0,0.75);
   box-shadow: -2px 14px 19px 0px rgba(0,0,0,0.75);
   border-radius: 12px;
+  width: 100%;
+  }
+
+.padding {
+  padding: 1rem;
 }
 }
 
@@ -133,33 +143,38 @@ nav a {
   bottom: 0;
   left: 0;
   right: 0;
-  width: 50%;
-  height: 40%;
-  margin: auto;
+  margin-right: 12px;
+  margin-left: 12px;
 }
 
 .title {
-  font-size: 4rem;
+  font-size: 1.9rem;
   white-space: nowrap;
   font-weight: bold;
 }
 
 .adress {
-  font-size: 1rem;
+  font-size: 0.8rem;
   white-space: nowrap;
   font-weight: bold;
 }
 
 .phone {
+  margin-left: 0;
+  margin-right: 0;
   margin-top: 4rem;
   font-weight: bold;
   color: #000;
-  padding: 48px;
+  padding: 24px 0px;
   background: rgba(255, 255, 255, 0.7);
-  font-size: 2rem;
+  font-size: 1rem;
   -webkit-box-shadow: -2px 14px 19px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: -2px 14px 19px 0px rgba(0,0,0,0.75);
   box-shadow: -2px 14px 19px 0px rgba(0,0,0,0.75);
   border-radius: 12px;
+  width: 100%;
+  }
+
+.padding {
+  padding: 1rem;
 }
 }
