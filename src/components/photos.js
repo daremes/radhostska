@@ -1,23 +1,28 @@
 export const photos = [
   {
+    src: 'https://i.imgur.com/LGyjzbr.jpg',
+    width: 4,
+    height: 3
+  },
+  {
     src: "https://i.imgur.com/E8AmFMD.jpg",
-    width: 1,
-    height: 1
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/9ZMPgGX.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/aZWpV5E.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/Nx3vwIX.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/dXKo3WJ.jpg",
@@ -26,8 +31,8 @@ export const photos = [
   },
   {
     src: "https://i.imgur.com/591041O.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/0KqBL1W.jpg",
@@ -51,18 +56,18 @@ export const photos = [
   },
   {
     src: "https://i.imgur.com/W4eISzO.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/ONQN87w.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/UtbsDT1.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/LxT4yXN.jpg",
@@ -71,8 +76,8 @@ export const photos = [
   },
   {
     src: "https://i.imgur.com/oRXyApU.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/vyco2IR.jpg",
@@ -86,8 +91,8 @@ export const photos = [
   },
     {
     src: "https://i.imgur.com/cD8vLVZ.jpg",
-    width: 3,
-    height: 4
+    width: 4,
+    height: 3
   },
   {
     src: "https://i.imgur.com/uWau732.jpg",
@@ -95,5 +100,3 @@ export const photos = [
     height: 3
   },
 ];
-
-// https://imgur.com/a/gCKy1jR
