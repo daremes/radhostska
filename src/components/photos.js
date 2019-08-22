@@ -15,6 +15,12 @@ export const photos = [
     height: 3
   },
   {
+    src: 'https://i.imgur.com/8bEDyxU.jpg',
+    width: 4,
+    height: 3
+  },
+
+  {
     src: "https://i.imgur.com/aZWpV5E.jpg",
     width: 4,
     height: 3
@@ -29,23 +35,13 @@ export const photos = [
     width: 4,
     height: 3
   },
-  {
-    src: "https://i.imgur.com/591041O.jpg",
-    width: 4,
-    height: 3
-  },
-  {
-    src: "https://i.imgur.com/0KqBL1W.jpg",
-    width: 4,
-    height: 3
-  },
-  {
+    {
     src: "https://i.imgur.com/utH497t.jpg",
     width: 4,
     height: 3
   },
-    {
-    src: 'https://i.imgur.com/8bEDyxU.jpg',
+  {
+    src: "https://i.imgur.com/591041O.jpg",
     width: 4,
     height: 3
   },
@@ -96,6 +92,11 @@ export const photos = [
   },
   {
     src: "https://i.imgur.com/uWau732.jpg",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "https://i.imgur.com/0KqBL1W.jpg",
     width: 4,
     height: 3
   },
