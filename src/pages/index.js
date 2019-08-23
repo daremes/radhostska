@@ -9,7 +9,7 @@ export default () => (
           BYT K PRONÁJMU
         </div>
         <div className='adress'>
-          Radhošťská 2278/1, Praha 3 = Vinohrady
+          Radhošťská 2278/1, Praha 3 - Vinohrady
         </div>
         <div className='phone'>
           <a href="tel:+420777555444">+420 724 905 627</a>
